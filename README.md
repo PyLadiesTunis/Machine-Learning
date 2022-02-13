@@ -1,5 +1,4 @@
-We were happy to organize the 4th meetup of the Data Science From Zero to Hero series: Build a Machine Learning Model with Python (https://www.meetup.com/pyladies-tunis/events/283602578/).
-We were pleased to be hosting Vivek Sharma. 
+We were happy to organize the 4th meetup of the Data Science From Zero to Hero series in collaboration with [IEEE WIE Esprit](https://www.facebook.com/IEEE.WIE.ESPRIT): Build a Machine Learning Model with Python (https://www.meetup.com/pyladies-tunis/events/283602578/). We were pleased to be hosting [Vivek Sharma](https://www.linkedin.com/in/vivek-sharma-2715b6129/). 
 
 ➡️ Workshop description:
 
